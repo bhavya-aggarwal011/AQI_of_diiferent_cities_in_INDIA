@@ -77,15 +77,6 @@ AQI_Analysis_of_INDIA/
 
 > *(Add dashboard screenshots inside the `dashboard_images` folder and replace the image paths below.)*
 
-### Main Dashboard
-
-![Dashboard](dashboard_images/dashboard1.png)
-
-### AQI Analysis
-
-![Dashboard](dashboard_images/dashboard2.png)
-
----
 
 ## 📚 Data Cleaning
 
