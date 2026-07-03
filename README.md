@@ -73,10 +73,6 @@ AQI_Analysis_of_INDIA/
 
 ---
 
-## 📷 Dashboard Preview
-
-> *(Add dashboard screenshots inside the `dashboard_images` folder and replace the image paths below.)*
-
 
 ## 📚 Data Cleaning
 
